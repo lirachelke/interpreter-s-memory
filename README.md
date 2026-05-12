@@ -22,11 +22,11 @@
 
 > [!TIP]
 > **Set up**
+> - a number-dense webpage, like [a financial podcast](https://seekingalpha.com/article/4902393-wall-street-breakfast-podcast-futures-dip-as-oil-jumps)
 > - an LLM API of choice
 > - Obsidian Web Clipper with the Interpreter feature enabled and configured
 >   - [Install](https://obsidian.md/clipper)
 >   - a Number Prompt in "custom prompt" in the Interpreter
-> - a number-dense webpage, like [a financial podcast transcript](https://seekingalpha.com/article/4902393-wall-street-breakfast-podcast-futures-dip-as-oil-jumps)
 
 **A prompt for reference:**
 
