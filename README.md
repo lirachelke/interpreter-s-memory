@@ -12,7 +12,7 @@
 - Gemini 3 — [chat](https://gemini.google.com/share/8b2ccfa54db3)
 
 > [!WARNING]
-> Gemini 3 is the only model that got it right with zero shot.
+> Gemini 3 is the only model that got the language it right with zero shot.
 
 > [!TIP]
 > Claude [chat 2.1] is the only model that asks to confirm language before generating. It is also the only model that, anecdotally, prioritises presenting single-character morpheme polysemes (e.g. 打，跑，老) over multiple-character polysemes (see Chat 2.1).
