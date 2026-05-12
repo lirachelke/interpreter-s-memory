@@ -1,6 +1,6 @@
 # Interpreter's Memory
 
-# CHARLES OVER HERE
+# 🟡 CHARLES OVER HERE
 
 ## Polysemy and Faux-amis in SOTA LLM (as of 2026-05-12)
 
