@@ -3,7 +3,8 @@
 ---
 # CHARLES OVER HERE
 ## Polysemy and Faux-amis in SOTA LLM (as of 5.12.26)
-- Claude Opus 4.6 [chat](https://claude.ai/share/b3ee954e-2435-430c-a511-6a34792a46ef)
+- Claude Opus 4.6
+  - [chat 1](https://claude.ai/share/b3ee954e-2435-430c-a511-6a34792a46ef)
   - [chat 2.1](https://claude.ai/share/3b131067-ea44-4019-b0c0-e410f8f51918)
   - [chat 2.2](https://claude.ai/share/3b131067-ea44-4019-b0c0-e410f8f51918)
 - ChatGPT 5.5 [chat](https://chatgpt.com/share/6a02a5a9-a758-83ea-b12b-ac979c01cd6a)
