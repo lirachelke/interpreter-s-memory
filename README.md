@@ -10,13 +10,16 @@
 - ChatGPT 5.5 [chat](https://chatgpt.com/share/6a02a5a9-a758-83ea-b12b-ac979c01cd6a)
 - Gemini 3 [chat](https://gemini.google.com/share/8b2ccfa54db3)
 
->[!Check] Gemini 3 is the only model that got it right with zero shot.
->[!Check] Claude [chat 2.1] is the only model that asks to confirm language before generating. It is also the only model that, anecdotally, prioritises presenting single-character morphem polysemes (e.g. 打， 跑，老）（see Chat2.1）, over multiple-character polysemes in its generation.
+>[!Check]
+> Gemini 3 is the only model that got it right with zero shot.
+>[!Check]
+> Claude [chat 2.1] is the only model that asks to confirm language before generating. It is also the only model that, anecdotally, prioritises presenting single-character morphem polysemes (e.g. 打， 跑，老）（see Chat2.1）, over multiple-character polysemes in its generation.
 
 
 ## Prompt hubs
 ### Number prompting
->[!to-do] Set up
+>[!to-do]
+> Set up
 - an LLM API of choice
 - Obsidian Web Clipper Add-on with the Interpreter feature enabled and configure
   - a Number Prompt in "custom prompt" in the Interpreter
