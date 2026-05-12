@@ -31,7 +31,7 @@
 **A prompt for reference:**
 
 ```markdown
-Extract all numerical and temporal data from `{{text}}` in order of appearance, paired with their subject matter translated into Chinese.
+Extract all numerical and temporal data from `{{content}}` in order of appearance, paired with their subject matter translated into Chinese.
 
 ## Rules
 - Abbreviate large numbers (1,000→1k, million→m, billion→b)
@@ -46,5 +46,5 @@ Only output the final result — no explanation.
 ➡ [number+unit+trend] | [subject in Chinese]
 ➡ [number+unit+trend] | [subject in Chinese]
 
-Input: `{{text}}`
+Input: `{{content}}`
 ```
